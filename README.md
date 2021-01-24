@@ -1,2 +1,2 @@
 # Microcontroller-Code
-Little scripts/routines for Elegoo-Kit
+Rather short sketches for elegoo-Kit (Uno-R3)
