@@ -1,2 +1,2 @@
-# Microcontroller-Code
-Rather short sketches for elegoo-Kit (Uno-R3)
+# Arduino-Sketches
+short sketches for elegoo-Kit (Uno-R3)
